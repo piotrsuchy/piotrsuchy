@@ -1,6 +1,6 @@
 Software Engineer @ Akamai  
 BEng of Automatics and Robotics @ AGH UST  
-Meng of Computer Science @ Warsaw University of Technology  
+Meng of Computer Science @ Warsaw University of Technology (in-progress)
 <!--
 **piotrsuchy/piotrsuchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
